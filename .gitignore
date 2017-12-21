@@ -170,6 +170,9 @@ vendor
 # Ignore Visual Studio code
 .vscode
 
+#configuration file
+.env
+
 #ignore Homestead/Vagrant
 /.vagrant
 Homestead.json
